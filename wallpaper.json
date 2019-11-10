@@ -1,0 +1,36 @@
+{
+    "Wallpapers":
+	[
+	    {
+		"author": "Unsplash",
+		"name": "mountains",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/cheng-feng-qdlLUboRwxs-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/mountains.jpg"
+		
+	},
+	{
+		"author": "Unsplash",
+                "name": "wall_two",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/darwin-vegher-2N7ex5yzJA8-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/wall_two.jpg"
+	},
+	{
+		"author": "Unsplash",
+                "name": "lanterns",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/federico-lancellotti--sbYYeEPpYM-unsplash.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/lanterns.jpg"
+	},
+	{
+		"author": "Unsplash",
+                "name": "evening",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/karl-jk-hedin-0C3NG49UeAk-unsplashlow.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/evening.jpg"
+	},
+	{
+		"author": "Unsplash",
+                "name": "leafs",
+		"url": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/rodion-kutsaev-049M_crau5k-unsplash%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/wallpaper/master/leafs.jpg"
+	}
+]
+}
